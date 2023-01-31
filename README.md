@@ -1,4 +1,3 @@
 - Hi, my name is Kyler! My friends call me Gurgs. 
-- 👀 I’m interested in learning to code!
-- 🌱 I’m currently learning Python! This is my first language!
-- 📫 You can reach me at kylermcguire0@gmail.com 
+- 👀 I’m a novice Python programmer :D
+- 📫https://www.linkedin.com/in/kylermcguire/
